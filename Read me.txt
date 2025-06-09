@@ -2,4 +2,4 @@ Create Database in PHPMYADMIN
 
 database Name : bankmanagementsystem  (Copy Database Name) & (Give the same name of database)
 
-
+import bankmagementsystem.sql file in PHPMYADMIN
