@@ -41,12 +41,19 @@ User-friendly interface for banking operations
 📂 Modules Overview
 
 LoginModule.java – User authentication
+
 Dashboard.java – Main interface after login
+
 Deposit.java, Withdraw.java, FastCash.java – Transaction modules
+
 AccountCreation.java – New account form
+
 MiniStatement.java – View past transactions
+
 DatabaseConnection.java – Manages SQL operations
--------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------
+-------------------------------------------------------------------------------------------------
 🚀 How to Run
 
 Clone this repository
