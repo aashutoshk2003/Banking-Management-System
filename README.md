@@ -65,7 +65,9 @@ Use the GUI to create accounts and perform transactions
 📘 Requirements
 
 JDK 8 or above
+
 MySQL or SQL Server
+
 Java IDE (NetBeans, IntelliJ, or Eclipse)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
